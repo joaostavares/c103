@@ -1,6 +1,5 @@
 # c103
 
-## Sobre
 Arquivo pessoal com alguns exercicios que fiz durante a matéria de Algoritmos II.
 <br>Cada exercicio está em uma pasta separada com o codigo e um `README.MD` com o enunciado do exercicio.
 
